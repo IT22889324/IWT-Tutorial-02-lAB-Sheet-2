@@ -1,0 +1,4 @@
+Tutorial 2
+
+Create below html form. (For the drop down list, Malabe, Metro, Kandy, Jaffna can be used as
+different options)
