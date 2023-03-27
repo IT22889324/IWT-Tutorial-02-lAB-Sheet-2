@@ -1,0 +1,28 @@
+Exercise 1: Create a shopping cart (part 1)
+1. Create the folder structure as following.
+a. Create A folder called “IWT”.
+b. Inside that create a folder named “src”.
+c. Create A folder called “images” inside the “src” folder.
+d. Create A folder called “styles” inside the “src” folder.
+e. Create A folder called “js” inside the “src” folder.
+f. Create a file named “index.html” and save it in “src” folder.
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- add a title (a) -->
+</head>
+<body>
+<!-- add a logo (b) -->
+<!-- add a header (c)-->
+<!-- add a sub-header (c) -->
+<!-- add a horizontal line (d)-->
+<!-- add a horizontal menu (e) -->
+<!-- add a table (f)-->
+<!-- add a horizontal line (d)-->
+<!-- add a footer (g)-->
+</body>
+</html>
+
+2. Get the following code and complete it using the given instructions. When completing the code,
+comment the letter of the exercise right before the answer code. 
